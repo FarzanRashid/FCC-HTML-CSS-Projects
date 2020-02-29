@@ -1,0 +1,64 @@
+#header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav {
+    width: 100%;
+    
+}
+
+#header-img {
+    width: 200px;
+    height: 100px;
+}
+
+.sign-up {
+    text-align: center;
+
+}
+
+.sign-up-page {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.description {
+ 
+}
+
+#video {
+   margin-left: 700px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+}
+
+@media (max-height: 800px){ 
+    body {
+    background-color:green;
+      }
+  }
+
+  #Desktop h2 {
+      text-align: center;
+  }
+
+  #Laptop h2 {
+    text-align: center;
+}
+
+#Tablet h2 {
+    text-align: center;
+}
